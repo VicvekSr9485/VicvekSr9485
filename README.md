@@ -1,4 +1,4 @@
-👋 Hi, I’m Olamide Oso — a Full Stack Software Engineer specializing in backend development, scalable system design, and AI/ML integration.
+👋 Hi, I’m Olamide Oso — a Full Stack Software Engineer specialized in backend development, scalable system design, and AI/ML integration.
 
 ⚡ Highlights:
 - Boosted AI model accuracy by 18% through fine-tuning and retraining.
